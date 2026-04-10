@@ -50,12 +50,12 @@ Pandas / NumPy / Matplotlib
 运行基础 LSTM 模型：
 
 Bash
-python train_lstm.py
+python 001train_LSTM.py
 运行 CNN-LSTM 特征融合模型：
 
 Bash
-python train_cnn_lstm.py
+python 001train_cnn_lstm.py
 运行最终的注意力机制模型：
 
 Bash
-python train_attention.py
+python 001train_lstm_cnn_attention.py
